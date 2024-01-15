@@ -3,4 +3,4 @@ resolver = "2"
 members = [
 	"year2015/day2"
 	, "year2015/day3"
-	]
+	, "year2015/day4"]
